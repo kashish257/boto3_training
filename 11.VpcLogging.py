@@ -22,6 +22,6 @@ def fnvpcdelete(vpcId):
 
 if __name__=="__main__":
     
-    vpc=fnvpcdelete(vpcId="vpc-0ec3d57538331d1d1")
-    print("vpc")
+    vpc=fnvpcdelete(vpcId="vpc-06ebea409edc3078c")
+    print(vpc)
 
